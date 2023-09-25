@@ -4,8 +4,6 @@
 
 a {
     text-decoration: none;
-    background-color: black;
-    color: white;
 }
 
 img {
@@ -15,4 +13,17 @@ img {
 
 .recipe {
     background-color: rgb(186, 144, 180)
+}
+
+.title {
+    background-color: rgb(51, 153, 111);
+    margin: 8px;
+    padding: 8px;
+    text-align: center;
+}
+
+.list {
+    background-color: greenyellow;
+    padding: 8px;
+    margin: 8px;
 }
